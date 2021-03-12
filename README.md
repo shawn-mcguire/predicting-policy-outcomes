@@ -2,7 +2,7 @@
 
 ## predictingPolicyOutcomes
 
-This repository contains code for the paper "Predicting United States Policy Outcomes with Random Forests" by Shawn K. McGuire and Charles B. Delahunt, found at arXiv.org.
+This repository contains code for the paper "Predicting United States Policy Outcomes with Random Forests" by Shawn K. McGuire and Charles B. Delahunt, found at https://www.ineteconomics.org/research/research-papers/predicting-united-states-policy-outcomes-with-random-forests
 
 The predictive models are described in the paper. The dataset (data/gilens_data_sm_copy.csv) is a subset of the dataset procured by Prof. Martin Gilens located at https://www.russellsage.org/economic-inequality-and-political-representation
 
