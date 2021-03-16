@@ -1,6 +1,6 @@
 9 August 2020
 
-## predictingPolicyOutcomes
+## predicting-policy-outcomes
 
 This repository contains code for the paper "Predicting United States Policy Outcomes with Random Forests" by Shawn K. McGuire and Charles B. Delahunt, found at https://www.ineteconomics.org/research/research-papers/predicting-united-states-policy-outcomes-with-random-forests
 
